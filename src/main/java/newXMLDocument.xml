@@ -1,9 +1,0 @@
-
-<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:u="urn:Belkin:service-1-0">
-    <SOAP-ENV:Header/>
-    <SOAP-ENV:Body>
-        <u:GetBinaryState>
-            <u:BinaryState>1</u:BinaryState>
-        </u:GetBinaryState>
-    </SOAP-ENV:Body>
-</SOAP-ENV:Envelope>
